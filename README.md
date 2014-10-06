@@ -21,7 +21,7 @@ Finish the Particle interface. It will list two methods:
 public void show();
 public void move();
 Have your NormalParticle implement the Particle interface.
-Add public in front of the move() & draw() methods in your Particle class.
+Add public in front of the move() & draw() methods in your NormalParticle class.
 Have your OddballParticle implement the Particle interface.
 Finish OddballParticle class. It will be very similiar, but OddballParticles should have different move and draw methods.
 Change your array of NormalParticles to an array of Particles.
