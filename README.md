@@ -8,7 +8,7 @@ All the particles must be stored in a single array using an interface.
 Your program must use at least one constant (for number of particles).
 Steps to completing this assignment
 Fork and clone down the Starfield repository,
-First, finish the Particle class. It will need the following members:
+First, finish the NormalParticle class. It will need the following members:
 5 data members: X and Y positions, Color, Angle and Speed. (Hint use doubles for X, Y, Speed and Angle)
 Particle(), the class constructor
 void move(), Takes the cos of the angle times the speed and adds it to the X coordinate. Does the same to Y with the sin of the angle.
