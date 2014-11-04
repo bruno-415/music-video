@@ -3,10 +3,13 @@ Starfield with an Oddball
 For this assignment you will make a simple animation of fireworks. This common animation is called a "starfield" since it can also be used to simulate movement through a field of stars.
  
 Program requirements:
+---------------------
 Your program must use two classes to model the particles. A "Normal" particle class and an "Oddball" partcle class
 All the particles must be stored in a single array using an interface.
 Your program must use at least one constant (for number of particles).
+
 Steps to completing this assignment
+-----------------------------------
 1. Fork and clone down the Starfield repository,
 2. First, finish the NormalParticle class. It will need the following members:
 * 5 data members: X and Y positions, Color, Angle and Speed. (Hint use doubles for X, Y, Speed and Angle)
