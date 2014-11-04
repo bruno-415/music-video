@@ -29,3 +29,7 @@ Change the first element in the array to a OddballParticle instead of a NormalPa
 Submit the url of your GitHub webpage via the school loop drop box for the assignment
 Extensions
 Have a fun and be creative. If you have extra time you may want to modify your program and add extra features. Experiment with different arrangements of particles. Look at student work from previous years for other variations.
+
+Samples of Student Work
+-----------------------
+[Matthew](http://matthew-chin.github.io/Starfield/)
