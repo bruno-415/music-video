@@ -1,9 +1,9 @@
 //your code here
-void setup()
+public void setup()
 {
 	//your code here
 }
-void draw()
+public void draw()
 {
 	//your code here
 }
@@ -15,9 +15,12 @@ interface Particle
 {
 	//your code here
 }
-class OddballParticle
+class OddballParticle //uses an interface
 {
 	//your code here
 }
-
+class JumboParticle //uses inheritance
+{
+	//your code here
+}
 
