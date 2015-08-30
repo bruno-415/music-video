@@ -21,7 +21,7 @@ Steps to completing this assignment
   * `public void show();`
   * `public void move();`
 7. Have your NormalParticle `implement` the Particle interface.
-8. Add `publi`c in front of the `move()` & `draw()` methods in your NormalParticle class.
+8. Add `public` in front of the `move()` & `draw()` methods in your NormalParticle class.
 9. Have your OddballParticle `implement` the Particle interface.
 10. Finish the `OddballParticle` class. It will be similiar, but OddballParticles should have different `move()` and `draw()` methods.
 11. Change your array of NormalParticles to an array of Particles.
