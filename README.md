@@ -4,7 +4,7 @@ For this assignment you will make a simple animation of fireworks. This common a
  
 Program requirements:
 ---------------------
-Your program must use three classes to model the particles. A "Normal" particle class, an "Oddball" particle class and a "Jumbo" particle class. All the particles must be stored in a single array using an interface. Your program must use at least one constant (for number of particles).
+Your program must use three classes to model the particles. A "Normal" particle class, an "Oddball" particle class and a "Jumbo" particle class. All the particles must be stored in a single array using an interface. 
 
 Steps to completing this assignment
 -----------------------------------
