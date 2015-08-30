@@ -8,7 +8,7 @@ Your program must use three classes to model the particles. A "Normal" particle 
 
 Steps to completing this assignment
 -----------------------------------
-1. Fork [this repository(https://github.com/APCSLowell/Starfield)  
+1. Fork [this repository](https://github.com/APCSLowell/Starfield)  
 2. First, finish the `NormalParticle` class. It will need the following members:
   * 5 data members: X and Y positions, Color, Angle and Speed. (Hint use doubles for X, Y, Speed and Angle)
   * `public Particle()`, the class constructor
