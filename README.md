@@ -22,8 +22,8 @@ Steps to completing this assignment
   * `public void move();`
 7. Have your NormalParticle `implement` the Particle interface.
 8. Add `public` in front of the `move()` & `draw()` methods in your NormalParticle class.
-9. Have your OddballParticle `implement` the Particle interface.
-10. Finish the `OddballParticle` class. It will be similiar, but OddballParticles should have different `move()` and `draw()` methods.
+9. Create an OddballParticle class that `implements` the Particle interface.
+10. Finish the `OddballParticle` class. It will be similiar to the NormalParticle, but OddballParticles should have different `move()` and `draw()` methods.
 11. Change your array of NormalParticles to an array of Particles.
 12. Change the first element in the array to a OddballParticle instead of a NormalParticle
 13. Now, write a new Jumbo class that `extends Particle`. In this class you will only need to override the one method `public void show()` to draw a larger ellipse. 
