@@ -13,10 +13,11 @@ Steps to completing this assignment
   * 5 data members: X and Y positions, Color, Angle and Speed. (Hint use doubles for X, Y, Speed and Angle)
   * `NormalParticle()`, the class constructor
   * `void move()`, Takes the cos of the angle times the speed and adds it to the X coordinate. Does the same to Y with the sin of the angle.
-  * `void show()`, sets the current color to the color of the particle and draws a dot using ellipse()
+  * `void show()`, draws the particle in the correct color
 3. Now finish the program's `setup()` and `draw()`
-4. Add one Particle variable, and make sure you can see it move
-5. Now modify the program so you have an array of Particles.
+4. Add one `NormalParticle` variable, and make sure you can see it move
+5. Now modify the program so you have an array of NormalParticles.
+6. Run your program and make sure you can see all the particles move.
 6. Finish the Particle interface. It will list two methods:
   * `public void show();`
   * `public void move();`
