@@ -39,4 +39,5 @@ Samples of Student Work
 [Oliver](http://olivernoss.github.io/Starfield/)  
 [Mina](http://minataur.github.io/Starfield/)  
 [Gigi](http://gigibyte327.github.io/Starfield/)  
+[Thomas](http://tomikam.github.io/Starfield/)  
   
