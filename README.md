@@ -42,4 +42,9 @@ Samples of Student Work
 [Thomas](http://tomikam.github.io/Starfield/)  
 [Luis](http://lmaragon.github.io/Starfield/)  
 [Teresa](http://teresamibarra.me/Starfield/)  
-  
+[Annie](http://anxie.github.io/Starfield/)  
+[Michel](http://limichel.github.io/Starfield/)  
+[Eric](http://ericheung1231.github.io/Starfield/)  
+[Jingbin](http://ben441318936.github.io/Starfield/)  
+[Sasha](http://sashagonzalez.github.io/Starfield/)  
+[Calvin](http://icalvin12.github.io/Starfield/)  
