@@ -11,8 +11,8 @@ Steps to completing this assignment
 1. Fork [this repository](https://github.com/APCSLowell/Starfield)  
 2. First, finish the `NormalParticle` class. It will need the following members:
   * 5 data members: X and Y positions, Color, Angle and Speed. (Hint use doubles for X, Y, Speed and Angle)
-  * `public Particle()`, the class constructor
-  * `public void move()`, Takes the cos of the angle times the speed and adds it to the X coordinate. Does the same to Y with the sin of the angle.
+  * `NormalParticle()`, the class constructor
+  * `void move()`, Takes the cos of the angle times the speed and adds it to the X coordinate. Does the same to Y with the sin of the angle.
   * `void show()`, sets the current color to the color of the particle and draws a dot using ellipse()
 3. Now finish the program's `setup()` and `draw()`
 4. Add one Particle variable, and make sure you can see it move
@@ -21,13 +21,14 @@ Steps to completing this assignment
   * `public void show();`
   * `public void move();`
 7. Have your NormalParticle `implement` the Particle interface.
-8. Add `public` in front of the `move()` & `draw()` methods in your NormalParticle class.
+8. Add `public` in front of the `move()` & `show()` methods in your NormalParticle class.
 9. Create an OddballParticle class that `implements` the Particle interface.
 10. Finish the `OddballParticle` class. It will be similiar to the NormalParticle, but OddballParticles should have different `move()` and `draw()` methods.
-11. Change your array of NormalParticles to an array of Particles.
+11. Change your array of NormalParticles to an array of type `Particle`.
 12. Change the first element in the array to a OddballParticle instead of a NormalParticle
+13. Run your program. Make sure you can see the Oddball.
 13. Now, write a new Jumbo class that `extends Particle`. In this class you will only need to override the one method `public void show()` to draw a larger ellipse. 
-14. Change the second element in the array to a Jumbo instead of a normal Particle
+14. Change the second element in the array to a Jumbo instead of a normal Particle. Run your program and make sure you can see the Jumbo.
 15. Submit the url of your GitHub webpage via the school loop drop box for the assignment
 Extensions  
 
