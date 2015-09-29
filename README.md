@@ -40,4 +40,6 @@ Samples of Student Work
 [Mina](http://minataur.github.io/Starfield/)  
 [Gigi](http://gigibyte327.github.io/Starfield/)  
 [Thomas](http://tomikam.github.io/Starfield/)  
+[Luis](http://lmaragon.github.io/Starfield/)  
+[Teresa](http://teresamibarra.me/Starfield/)  
   
