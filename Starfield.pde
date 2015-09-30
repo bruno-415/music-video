@@ -1,9 +1,9 @@
 //your code here
-public void setup()
+void setup()
 {
 	//your code here
 }
-public void draw()
+void draw()
 {
 	//your code here
 }
