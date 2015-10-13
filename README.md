@@ -39,7 +39,7 @@ Samples of Student Work
 -----------------------
 [Jimmy](http://furiouspenguins.github.io/Starfield/)  
 [Alex](http://alexlo1.github.io/Starfield/)  
-[Winnie](http://winnie3269.github.io/Starfield/  
+[Winnie](http://winnie3269.github.io/Starfield/)  
 [Brandi](http://brw1221.github.io/Starfield/)  
 [Elston](http://458elma.github.io/Starfield/)  
 [David](http://unuse45.github.io/Starfield/)  
