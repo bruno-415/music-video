@@ -37,6 +37,10 @@ Have a fun and be creative. If you have extra time you may want to modify your p
 
 Samples of Student Work
 -----------------------
+[Kaki](http://kaki123.github.io/Starfield/)  
+[Evan](http://evhuang.github.io/Starfield/)  
+[Charles](https://github.com/APCSLowell/Starfield)  
+[Leif](http://leifmorgan.github.io/Starfield/)  
 [Martin](http://marrtinj.github.io/Starfield/)  
 [Matthew](http://yeahmatts.github.io/Starfield/)  
 [Jimmy](http://furiouspenguins.github.io/Starfield/)  
