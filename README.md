@@ -37,6 +37,19 @@ Have a fun and be creative. If you have extra time you may want to modify your p
 
 Samples of Student Work
 -----------------------
+[Rebecca](http://rebeckur.github.io/Starfield/)  
+[Abhay](http://negiabhay98.github.io/Starfield/)  
+[Sida](http://sidaqin.github.io/Starfield/)  
+[Brian](http://btx123.github.io/Starfield/)  
+[Thien](http://thtran1.github.io/Starfield/)  
+[Tiger](http://tigerrlao.github.io/Starfield/)  
+[Yang](http://giangd.github.io/Starfield/)  
+[Melody](http://itsmelodious.github.io/Starfield/)  
+[Darren](http://darrenapcs.github.io/Starfield/)  
+[Bryan](http://articlegend.github.io/Starfield/)  
+[Thomas](http://whatarethose.github.io/Starfield/)  
+[Daniel](http://donutdaniel.github.io/Starfield/)  
+[Miko](http://mikolajkrajewski.github.io/Starfield/)  
 [Kevin](http://oohklim.github.io/Starfield/)  
 [Dmitry](http://dkuliaev.github.io/Starfield/)  
 [Kaki](http://kaki123.github.io/Starfield/)  
