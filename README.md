@@ -37,6 +37,10 @@ Have a fun and be creative. If you have extra time you may want to modify your p
 
 Samples of Student Work
 -----------------------
+[Kelly](http://kellyhuang21.github.io/Starfield/)  
+[Jeanette](http://roquefortt.github.io/Starfield/)  
+[Melanie](http://melaniepeng.github.io/Starfield/)  
+[Belinda](http://apcshoward.github.io/Starfield/)  
 [Ivan](http://greypoupon.github.io/Starfield/)  
 [Helen](http://hezhang2.github.io/Starfield/)  
 [Elliot](http://elliottdebruin.github.io/Starfield/)  
