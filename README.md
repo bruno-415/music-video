@@ -37,6 +37,12 @@ Have a fun and be creative. If you have extra time you may want to modify your p
 
 Samples of Student Work
 -----------------------
+[Skyler](http://skymefly.github.io/Starfield/)  
+[Steven](http://crzysteven.github.io/Starfield/)  
+[Megan](http://meegee98.github.io/Starfield/)  
+[Veronica](http://vewhite.github.io/Starfield/)  
+[Linda](http://wanglindal.github.io/Starfield/)  
+[Belinda](http://belindatan.github.io/Starfield/)  
 [Kelly](http://kellyhuang21.github.io/Starfield/)  
 [Jeanette](http://roquefortt.github.io/Starfield/)  
 [Melanie](http://melaniepeng.github.io/Starfield/)  
