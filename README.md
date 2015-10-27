@@ -92,7 +92,7 @@ Samples of Student Work
 [Elston](http://458elma.github.io/Starfield/)  
 [David](http://unuse45.github.io/Starfield/)  
 [Andrew](http://frostytimp.github.io/Starfield/)  
-[EstHer](http://elam2016.github.io/Starfield/)  
+[Esther](http://elam2016.github.io/Starfield/)  
 [Brian](http://librian415.github.io/Starfield/)  
 [Justin](http://justinleong360.github.io/Starfield/)  
 [Alexander](http://alzhu1.github.io/Starfield/)  
