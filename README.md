@@ -37,6 +37,7 @@ Have a fun and be creative. If you have extra time you may want to modify your p
 
 Samples of Student Work
 -----------------------
+[John](http://jcdente.github.io/Starfield/)  
 [Theo](http://awesomestickman.github.io/Starfield/)  
 [Andre](http://ardzejafyl.github.io/Starfield/)  
 [Jesse](http://jessew927.github.io/Starfield/)  
