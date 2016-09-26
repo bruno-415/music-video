@@ -10,7 +10,7 @@ Suggested steps to completing this assignment
 -----------------------------------
 1. Fork [this repository](https://github.com/APCSLowell/Starfield)  
 2. First, finish the `NormalParticle` class. It will need the following members:
-  * 5 member variables: X and Y positions, Color, Angle and Speed. (Hint use doubles for X, Y, Speed and Angle)
+  * 5 member variables: X and Y positions, Color, Angle and Speed. (Hint: use doubles for X, Y, Speed and Angle)
   * `NormalParticle()`, the class constructor
   * `void move()`, Takes the cos of the angle times the speed and adds it to the X coordinate. Does the same to Y with the sin of the angle.
   * `void show()`, draws the particle in the correct color
