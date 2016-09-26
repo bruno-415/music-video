@@ -31,6 +31,7 @@ Suggested steps to completing this assignment
 13. Now, write a new Jumbo class that `extends NormalParticle` (or `extends OddballParticle`). In this class you will only need to override the one method `public void show()` to draw a larger ellipse. 
 14. Change the second element in the array to a Jumbo instead of a normal Particle. Run your program and make sure you can see the Jumbo.
 15. Submit the url of your GitHub webpage via the school loop drop box for the assignment   
+
 Extensions  
 
 Have a fun and be creative. If you have extra time you may want to modify your program and add extra features. Experiment with different arrangements of particles. Look at student work from the links below for other variations.
