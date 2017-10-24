@@ -36,12 +36,22 @@ Extensions: Have a fun and be creative. If you have extra time you may want to m
 
 Samples of Student Work
 -----------------------
+[Jing](https://jili53.github.io/Starfield/)   
+[Bryce](https://brmao123.github.io/Starfield/)   
+[Emma](https://emblenkinsop.github.io/Starfield/)   
 [James](https://james168ma.github.io/Starfield/)   
 [Chase](https://chaseabm.github.io/Starfield/)   
+[Vincent](https://ss963213.github.io/Starfield/)   
+[Hiroki](https://hirokimasudathaya.github.io/Starfield/)   
+[Andrew](https://ansimasfusd.github.io/Starfield/)   
+[Cynthia](https://cylee1.github.io/Starfield/)   
+[Lalith](https://darkefox.github.io/Starfield/)   
 [Gordon](https://milkteadailo.github.io/Starfield/)   
 [Lily](https://oulilyapjava.github.io/Starfield/)   
 [Alex](https://parkore9920.github.io/Starfield/)   
+[Jeffrey](https://jechen27.github.io/Starfield/)   
 [Alber](https://albertma222.github.io/Starfield/)   
+[Ryan](https://rylee12.github.io/Starfield/)   
 [Kelvin](https://chan34kelvin.github.io/Starfield/)   
 [Maryann](https://mariann-lowellapcs.github.io/Starfield/)   
 [Jeffrey](https://codingjeff.github.io/Starfield/)   
@@ -50,7 +60,7 @@ Samples of Student Work
 [Ben](https://belee7.github.io/Starfield/)   
 [Kelly](https://kellykelp.github.io/Starfield/)   
 [Linus](https://linusng15.github.io/Starfield/)   
-
+[Karlee](https://changkarlee.github.io/Starfield/)   
 [Trevor](https://tlouie16.github.io/Starfield/)   
 [Justin](https://jolucky.github.io/Starfield/)   
 
