@@ -37,6 +37,11 @@ Extensions: Have a fun and be creative. If you have extra time you may want to m
 Samples of Student Work
 -----------------------
 [Jalen](https://jalenng.github.io/Starfield/)   
+[Albert](https://albertgiang.github.io/Starfield/)   
+[Annie](https://anli32.github.io/Starfield/)   
+[Jessica](https://jessical26.github.io/Starfield/)   
+[Susan](https://susanm87.github.io/Starfield/)   
+[Ian](https://iatang21.github.io/Starfield/)   
 [David](https://daamaya.github.io/Starfield/)   
 [Jessie](https://jechen30.github.io/Starfield/)   
 [Marc](https://alltheusernamesdontworkexceptmine.github.io/Starfield/)   
@@ -49,6 +54,7 @@ Samples of Student Work
 [Jason](https://everyusernameitrywentwrong-jason-ye.github.io/Starfield/)   
 [Alexis](https://alexisapcs.github.io/Starfield/)   
 [Diego](https://diegoleong.github.io/Starfield/)   
+[Lawrence](https://lawrencelowell.github.io/Starfield/)   
 [Willis](https://willisli.github.io/Starfield/)   
 [Brandon](https://btlsandwich.github.io/Starfield/)   
 [Devin](https://dely4.github.io/Starfield/)   
