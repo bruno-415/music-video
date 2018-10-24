@@ -36,8 +36,19 @@ Extensions: Have a fun and be creative. If you have extra time you may want to m
 
 Samples of Student Work
 -----------------------
+[Jessie](https://jechen30.github.io/Starfield/)   
+[Esther](https://estherchung83.github.io/Starfield/)   
+[Calvin](https://callmecalvin808.github.io/Starfield/)   
+[Audrey](https://chubbibunniomnomnom.github.io/Starfield/)   
+[Juliana](https://solojuliana.github.io/Starfield/)   
+[Mampu](https://koooolk.github.io/Starfield/)   
 [Michael](https://psyduckjar.github.io/Starfield/)   
+[Emma](https://emmab3.github.io/Starfield/)   
+[Brendan](https://brchao.github.io/Starfield/)   
 [Michelle](https://michellet1682.github.io/Starfield/)   
+[Lolita](https://major-crimes.github.io/Starfield/)   
+[Gee](https://trtran8.github.io/Starfield/)   
+[Nathan](https://nathanw1510.github.io/Starfield/)   
 [Jayde](https://jaydewong.github.io/Starfield/)   
 [Joshua](https://jowong1.github.io/Starfield/)   
 [Mari](https://mariwoodworth.github.io/Starfield/)   
