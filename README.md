@@ -1,10 +1,10 @@
-Starfield (with an Oddball and Jumbo)
+Starfield (with an Oddball)
 =========================
 For this assignment you will make a animation of fireworks. This common animation is called a "starfield" since it can also be used to simulate movement through a field of stars. You may find slides 1 - 131 on <a href="https://docs.google.com/presentation/d/1Eldw10Y6tP7Ru6pjaCcZPhm5vxjnKjVrWLB8qT5IiF0/edit?usp=sharing">OOP--Interfaces, Inheritance & Encapsulation</a> presentation helpful.
  
 Program requirements:
 ---------------------
-Your program must use three classes to model the particles. A "Normal" particle class, an "Oddball" particle class and a "Jumbo" particle class. All the particles must be stored in a single array using an interface. The Jumbo particle class must use inheritance.
+Your program must use two classes to model the particles. A "Normal" particle super class and an "Oddball" particle sub class. All the particles must be stored in a single array.
 
 Suggested steps to completing this assignment
 -----------------------------------
