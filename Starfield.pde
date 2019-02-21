@@ -7,20 +7,14 @@ void draw()
 {
 	//your code here
 }
-class NormalParticle
+class Particle
 {
 	//your code here
 }
-interface Particle
+
+class OddballParticle //inherits from NormalParticle
 {
 	//your code here
 }
-class OddballParticle //uses an interface
-{
-	//your code here
-}
-class JumboParticle //uses inheritance
-{
-	//your code here
-}
+
 
