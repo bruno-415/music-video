@@ -4,7 +4,7 @@ For this assignment you will make a animation of fireworks. This common animatio
  
 Program requirements:
 ---------------------
-Your program must use two classes to model the particles. A "Normal" particle super class and an "Oddball" particle sub class. All the particles must be stored in a single array.
+Your program must use two classes to model the particles. A `Particle` super class and an `Oddball` sub class. All the particles must be stored in a single array of the super class type.
 
 Suggested steps to completing this assignment
 -----------------------------------
