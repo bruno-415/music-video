@@ -12,7 +12,7 @@ class Particle
 	//your code here
 }
 
-class OddballParticle //inherits from NormalParticle
+class OddballParticle //inherits from Particle
 {
 	//your code here
 }
