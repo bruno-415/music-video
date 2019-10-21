@@ -1,10 +1,10 @@
 Starfield (with an Oddball)
 =========================
-For this assignment you will make a animation of fireworks. This common animation is called a "starfield" since it can also be used to simulate movement through a field of stars. You may find slides 1 - 131 on <a href="https://docs.google.com/presentation/d/1Eldw10Y6tP7Ru6pjaCcZPhm5vxjnKjVrWLB8qT5IiF0/edit?usp=sharing">OOP--Interfaces, Inheritance & Encapsulation</a> presentation helpful.
+For this assignment you will make a animation of fireworks. This common animation is called a "starfield" since it can also be used to simulate movement through a field of stars. You may find slides 1 - 131 on <a href="https://docs.google.com/presentation/d/1Eldw10Y6tP7Ru6pjaCcZPhm5vxjnKjVrWLB8qT5IiF0/edit?usp=sharing">OOP--Inheritance & Encapsulation</a> presentation helpful.
  
 Program requirements:
 ---------------------
-Your program must use two classes to model the particles. A `Particle` super class and an `Oddball` sub class. All the particles must be stored in a single array of the super class type.
+Your program must use at least two classes to model the particles. A `Particle` super class and an `Oddball` sub class. All the particles must be stored in a single array of the super class type.
 
 Suggested steps to completing this assignment
 -----------------------------------
@@ -17,7 +17,6 @@ Suggested steps to completing this assignment
 3. Now finish the program's `setup()` and `draw()`
 4. Add one `Particle` variable, and make sure you can see it move
 9. Create an OddballParticle class that `extends` the Particle class.
-10. Finish the `Particle` class. It will be similiar to the Particle, but OddballParticles should have different `move()` and `show()` methods.
 12. Change the first element in the array to a `OddballParticle` instead of a `Particle`
 13. Run your program. Make sure you can see the Oddball.
 15. Submit the url of your GitHub webpage via the school loop drop box for the assignment   
