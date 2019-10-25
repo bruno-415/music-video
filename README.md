@@ -19,8 +19,7 @@ Suggested steps to completing this assignment
 9. Create an OddballParticle class that `extends` the Particle class.
 12. Change the first element in the array to a `OddballParticle` instead of a `Particle`
 13. Run your program. Make sure you can see the Oddball.
-15. Submit the url of your GitHub webpage via the school loop drop box for the assignment   
-
+15. Submit the url of your working GitHub webpage to google classroom
 Extensions: Have a fun and be creative. If you have extra time you may want to modify your program and add extra features and other types and arrangements of particles. Look at student work from the links below for other variations.
 
 Samples of Student Work
