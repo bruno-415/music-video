@@ -17,6 +17,7 @@ Suggested steps to completing this assignment
   * `void show()`, draws the particle in the correct color
 3. Now finish the program's `setup()` and `draw()`
 4. Add one `Particle` variable, and make sure you can see it move
+5. Add an array of type `Particle` and loop through it to move and show all the Particles.
 9. Create an OddballParticle class that `extends` the Particle class.
 12. Change the first element in the array to a `OddballParticle` instead of a `Particle`
 13. Run your program. Make sure you can see the Oddball.
