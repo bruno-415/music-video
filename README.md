@@ -33,6 +33,7 @@ Samples of Student Work
 [Kaitlyn](https://therealkaitlyn.github.io/Starfield/)   
 [Rafael](https://rafaelcenzano.github.io/Starfield/)   
 [Francesca](https://frprivalova.github.io/Starfield/)   
+[Robert](https://frestho.github.io/Starfield/)   
 [Vicky](https://vickyguan3.github.io/Starfield/)   
 [Marisa](https://saeriam.github.io/Starfield/)   
 [Fred](https://fredxhua.github.io/Starfield/)   
