@@ -4,7 +4,7 @@ For this assignment you will make a animation of fireworks. This common animatio
  
 Program requirements:
 ---------------------
-Your program must use at least two classes to model the particles. A `Particle` super class and an `Oddball` sub class. All the particles must be stored in a single array of the super class type. Make sure you do not unnunnecessarily duplicate inherited variables and functions in the `Oddball` sub class. Your `Oddball` sub class should only contain a constructor and `void move()` and/or `void show()` so that the `Oddball` moves and/or looks different.
+Your program must use at least two classes to model the particles. A `Particle` super class and an `Oddball` sub class. All the particles must be stored in a single array of the super class type. Make sure you do not unnunnecessarily duplicate inherited variables and functions in the `Oddball` sub class. Your `Oddball` sub class need only contain a constructor and `void move()` and/or `void show()` so that the `Oddball` moves and/or looks different.
 
 
 Suggested steps to completing this assignment
