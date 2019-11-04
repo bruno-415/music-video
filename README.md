@@ -30,6 +30,7 @@ Samples of Student Work
 [Jaqueline](https://jacqsmei.github.io/Starfield/)   
 [Johnny](https://jowong30.github.io/Starfield/)   
 [Clarence](https://clarencechung.github.io/Starfield/)   
+[Gabriel](https://gazhu1.github.io/Starfield/)   
 [Anna](https://annaorgel.github.io/Starfield/)   
 [Kang](https://kangryu.github.io/Starfield/)   
 [Cheryl](https://cherhchen.github.io/Starfield/)   
