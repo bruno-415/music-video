@@ -28,9 +28,12 @@ Samples of Student Work
 -----------------------
 [Jasmine](https://jasmine-c-16.github.io/Starfield/)   
 [Jaqueline](https://jacqsmei.github.io/Starfield/)   
+[Joaquin](https://jowarren137.github.io/Starfield/)   
 [Johnny](https://jowong30.github.io/Starfield/)   
 [Clarence](https://clarencechung.github.io/Starfield/)   
 [Claire](https://cmbeaudin.github.io/Starfield/)   
+[Rahul](https://rabulsara02.github.io/Starfield/)   
+[Edison](https://edchen5.github.io/Starfield/)   
 [Gabriel](https://gazhu1.github.io/Starfield/)   
 [Anna](https://annaorgel.github.io/Starfield/)   
 [Kang](https://kangryu.github.io/Starfield/)   
