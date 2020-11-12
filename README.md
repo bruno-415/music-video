@@ -27,6 +27,7 @@ Extensions: Have a fun and be creative. If you have extra time you may want to m
 Samples of Student Work
 -----------------------
 [Jasmine](https://jbaao.github.io/Starfield/)   
+[Jimmy](https://jiliu11.github.io/Starfield/)   
 [Andrea](https://andrearobinowitz3.github.io/Starfield/)   
 [Harry](https://harrywong3.github.io/Starfield/)   
 [Jonathan](https://jong6.github.io/Starfield/)   
