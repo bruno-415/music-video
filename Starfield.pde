@@ -7,13 +7,24 @@ class Particle
     myAngle = Math.random()*2*Math.PI;
     mySpeed = Math.random()*10;
     myColor = color((int)(Math.random()*256), (int)(Math.random()*256), (int)(Math.random()*256));
-    mySize = 1;
+    mySize = 0;
   }
   void move() {
     myX += Math.cos(myAngle) * mySpeed;
     myY += Math.sin(myAngle) * mySpeed;
-    mySize *= dist(300, 300, (float)myX, (float)myY)/100;
+    if (dist(300, 300, (float)myX, (float)myY) > 106)
+      mySize = mySpeed;
+    if (dist(300, 300, (float)myX, (float)myY) > 212)
+      mySize = 1.5 * mySpeed;
+    if (dist(300, 300, (float)myX, (float)myY) > 318)
+      mySize = 2 * mySpeed;
     
+    if (dist(300, 300, (float)myX, (float)myY) > 450) {
+      mySpeed = Math.random()*10;
+      mySize = 1;
+      myX = 300;
+      myY = 300;
+    }
   }
   void show() {
     stroke(myColor);
@@ -37,6 +48,7 @@ class OddballParticle extends Particle
 Particle[] starfield;
 
 void setup() {
+  //frameRate(1);
   size(600, 600);
   background(0);
   starfield = new Particle[200];
