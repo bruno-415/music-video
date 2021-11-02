@@ -44,8 +44,8 @@ class OddballParticle extends Particle
     mySize = 2;
   }
   void move() {
-    myX = starfield[1].myX + Math.cos(myAngle) * radius;
-    myY = starfield[1].myY + Math.sin(myAngle) * radius;
+    myX = starfield[0].myX + Math.cos(myAngle) * radius;
+    myY = starfield[0].myY + Math.sin(myAngle) * radius;
     myAngle += Math.PI/24;
   }
 }
@@ -57,8 +57,8 @@ void setup() {
   size(600, 600);
   background(0);
   starfield = new Particle[200];
-  starfield[0] = new OddballParticle();
-  for(int i = 1; i < starfield.length; i++)
+  starfield[starfield.length-1] = new OddballParticle();
+  for(int i = 0; i < starfield.length-1; i++)
     starfield[i] = new Particle();
 }
 
