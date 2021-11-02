@@ -7,7 +7,7 @@ class Particle
     myAngle = Math.random()*2*Math.PI;
     mySpeed = Math.random()*10;
     myColor = color((int)(Math.random()*256), (int)(Math.random()*256), (int)(Math.random()*256));
-    mySize = 0;
+    mySize = 1;
   }
   void move() {
     myX += Math.cos(myAngle) * mySpeed;
@@ -15,11 +15,11 @@ class Particle
     mySize = mySpeed * dist(300, 300, (float)myX, (float)myY)/150;
     
     if (dist(300, 300, (float)myX, (float)myY) > 450) {
+      myX = myY = 300;
+      myAngle = Math.random()*2*Math.PI;
       mySpeed = Math.random()*10;
-      mySize = 1;
-      myX = 300;
-      myY = 300;
       myColor = color((int)(Math.random()*256), (int)(Math.random()*256), (int)(Math.random()*256));
+      mySize = 1;
     }
   }
   void show() {
