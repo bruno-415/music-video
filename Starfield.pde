@@ -12,18 +12,14 @@ class Particle
   void move() {
     myX += Math.cos(myAngle) * mySpeed;
     myY += Math.sin(myAngle) * mySpeed;
-    if (dist(300, 300, (float)myX, (float)myY) > 106)
-      mySize = mySpeed;
-    if (dist(300, 300, (float)myX, (float)myY) > 212)
-      mySize = 1.5 * mySpeed;
-    if (dist(300, 300, (float)myX, (float)myY) > 318)
-      mySize = 2 * mySpeed;
+    mySize = mySpeed * dist(300, 300, (float)myX, (float)myY)/150;
     
     if (dist(300, 300, (float)myX, (float)myY) > 450) {
       mySpeed = Math.random()*10;
       mySize = 1;
       myX = 300;
       myY = 300;
+      myColor = color((int)(Math.random()*256), (int)(Math.random()*256), (int)(Math.random()*256));
     }
   }
   void show() {
@@ -35,13 +31,19 @@ class Particle
 
 class OddballParticle extends Particle
 {
+  double radius = 20;
   OddballParticle() {
     myX = 0;
     myY = 500;
-    myAngle = -Math.PI/6;
+    myAngle = 0;
     mySpeed = Math.random()*10;
     myColor = color((int)(Math.random()*256), (int)(Math.random()*256), (int)(Math.random()*256));
-    mySize = 3;
+    mySize = 2;
+  }
+  void move() {
+    myX = starfield[1].myX + Math.cos(myAngle) * radius;
+    myY = starfield[1].myY + Math.sin(myAngle) * radius;
+    myAngle += Math.PI/24;
   }
 }
 
@@ -58,7 +60,8 @@ void setup() {
 }
 
 void draw() {
-  background(0);
+  if(mousePressed == false)
+    background(0);
   for(int i = 0; i < starfield.length; i++) {
     starfield[i].move();
     starfield[i].show();
